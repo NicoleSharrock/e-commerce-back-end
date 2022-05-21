@@ -6,13 +6,11 @@ Build the back end for an e-commerce site
 ## Table Of Contents
 * [General info](#story)
 * [Technologies](#built-with)
-* [Deployable link](#deployable-link) 
-* [Screenshot](#screenshot)
+* [Walkthrough video](#walkthrough-video) 
+
 
 ## Story
 As a manager at an internet retail company I want a back end for my e-commerce website that uses the latest technologies so that my company can compete with other e-commerce companies.
-
-
 
 
 ## Built with
@@ -28,5 +26,4 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 
 
 
-## Screenshot:
-![screenshot]()
+
