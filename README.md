@@ -1,8 +1,7 @@
 # E-commerce Back End Starter Code
 
-
 ## Purpose 
- 
+Build the back end for an e-commerce site
 
 ## Table Of Contents
 * [General info](#story)
